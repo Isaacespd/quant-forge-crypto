@@ -1,0 +1,68 @@
+
+=== BTC/USDT 4h: 18854 candles ===
+--- k=2.00 ---
+  allow_short=False: trades= 586 final_equity=     130,233 pf=1.18 sharpe=0.041 max_dd=-16.9%
+  allow_short=True:  trades=1083 final_equity=      99,463 pf=1.07 sharpe=-0.003 max_dd=-32.3%
+    BUY: trades= 563 pnl=    42,301 win_rate=36.4%
+    SELL: trades= 520 pnl=    -2,787 win_rate=34.0%
+    Por año (allow_short=False):
+      2018: trades= 27 pnl=    -4,091
+      2019: trades= 66 pnl=    16,180
+      2020: trades= 87 pnl=    31,427
+      2021: trades= 92 pnl=    -6,805
+      2022: trades= 37 pnl=   -10,596
+      2023: trades= 95 pnl=    30,373
+      2024: trades= 86 pnl=    11,490
+      2025: trades= 63 pnl=    -2,723
+      2026: trades= 33 pnl=    -9,872
+  costos 2x (comm=0.2%, slip=0.1%): trades= 560 final_equity=      82,669 pf=1.08 sharpe=0.007 (vs base pf=1.18, equity=130,233)
+--- k=3.00 ---
+  allow_short=False: trades= 488 final_equity=     152,110 pf=1.28 sharpe=0.076 max_dd=-20.5%
+  allow_short=True:  trades= 908 final_equity=     122,439 pf=1.12 sharpe=0.009 max_dd=-31.7%
+    BUY: trades= 483 pnl=    79,377 win_rate=38.9%
+    SELL: trades= 425 pnl=   -18,499 win_rate=33.6%
+    Por año (allow_short=False):
+      2018: trades= 17 pnl=      -615
+      2019: trades= 53 pnl=    24,545
+      2020: trades= 74 pnl=    36,934
+      2021: trades= 79 pnl=    -7,103
+      2022: trades= 25 pnl=    -8,605
+      2023: trades= 80 pnl=    36,907
+      2024: trades= 77 pnl=    11,151
+      2025: trades= 56 pnl=    -4,834
+      2026: trades= 27 pnl=   -11,622
+  costos 2x (comm=0.2%, slip=0.1%): trades= 455 final_equity=      89,239 pf=1.10 sharpe=0.024 (vs base pf=1.28, equity=152,110)
+
+=== ETH/USDT 4h: 18854 candles ===
+--- k=2.00 ---
+  allow_short=False: trades= 567 final_equity=     158,670 pf=1.26 sharpe=0.092 max_dd=-17.6%
+  allow_short=True:  trades=1091 final_equity=     199,001 pf=1.19 sharpe=0.054 max_dd=-28.8%
+    BUY: trades= 560 pnl=   117,676 win_rate=39.8%
+    SELL: trades= 531 pnl=    29,241 win_rate=37.5%
+    Por año (allow_short=False):
+      2018: trades= 20 pnl=      -132
+      2019: trades= 66 pnl=     1,150
+      2020: trades= 96 pnl=    42,888
+      2021: trades= 87 pnl=    20,200
+      2022: trades= 39 pnl=     8,376
+      2023: trades= 95 pnl=     1,176
+      2024: trades= 69 pnl=      -957
+      2025: trades= 61 pnl=    14,640
+      2026: trades= 34 pnl=    -8,020
+  costos 2x (comm=0.2%, slip=0.1%): trades= 553 final_equity=     108,771 pf=1.16 sharpe=0.063 (vs base pf=1.26, equity=158,670)
+--- k=3.00 ---
+  allow_short=False: trades= 477 final_equity=     158,166 pf=1.29 sharpe=0.113 max_dd=-15.4%
+  allow_short=True:  trades= 927 final_equity=     183,454 pf=1.20 sharpe=0.055 max_dd=-27.7%
+    BUY: trades= 475 pnl=    99,020 win_rate=40.0%
+    SELL: trades= 452 pnl=    23,897 win_rate=35.6%
+    Por año (allow_short=False):
+      2018: trades= 11 pnl=     2,260
+      2019: trades= 48 pnl=    16,531
+      2020: trades= 86 pnl=    39,997
+      2021: trades= 78 pnl=    18,359
+      2022: trades= 35 pnl=    -2,891
+      2023: trades= 78 pnl=      -717
+      2024: trades= 59 pnl=     2,366
+      2025: trades= 53 pnl=    14,556
+      2026: trades= 29 pnl=   -13,855
+  costos 2x (comm=0.2%, slip=0.1%): trades= 459 final_equity=     119,704 pf=1.21 sharpe=0.085 (vs base pf=1.29, equity=158,166)

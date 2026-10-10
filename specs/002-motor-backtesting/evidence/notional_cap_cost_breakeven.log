@@ -1,0 +1,80 @@
+
+=== BTC/USDT 4h ===
+--- k=2.00 ---
+  cap=sin techo
+    1.00x: final_equity=$     130,233 retorno=  30.2% pf=1.18
+    1.25x: final_equity=$     113,358 retorno=  13.4% pf=1.15
+    1.50x: final_equity=$      91,173 retorno=  -8.8% pf=1.08
+    1.75x: final_equity=$      87,455 retorno= -12.5% pf=1.08
+    2.00x: final_equity=$      82,669 retorno= -17.3% pf=1.08
+  cap=0.25
+    1.00x: final_equity=$     120,038 retorno=  20.0% pf=1.17
+    1.25x: final_equity=$     108,671 retorno=   8.7% pf=1.13
+    1.50x: final_equity=$      97,514 retorno=  -2.5% pf=1.09
+    1.75x: final_equity=$      83,237 retorno= -16.8% pf=1.03
+    2.00x: final_equity=$      84,165 retorno= -15.8% pf=1.05
+  cap=0.15
+    1.00x: final_equity=$     110,714 retorno=  10.7% pf=1.15
+    1.25x: final_equity=$     104,035 retorno=   4.0% pf=1.12
+    1.50x: final_equity=$      96,450 retorno=  -3.5% pf=1.07
+    1.75x: final_equity=$      90,567 retorno=  -9.4% pf=1.04
+    2.00x: final_equity=$      88,055 retorno= -11.9% pf=1.03
+--- k=3.00 ---
+  cap=sin techo
+    1.00x: final_equity=$     152,110 retorno=  52.1% pf=1.28
+    1.25x: final_equity=$     139,132 retorno=  39.1% pf=1.26
+    1.50x: final_equity=$     120,960 retorno=  21.0% pf=1.20
+    1.75x: final_equity=$     105,150 retorno=   5.2% pf=1.16
+    2.00x: final_equity=$      89,239 retorno= -10.8% pf=1.10
+  cap=0.25
+    1.00x: final_equity=$     131,615 retorno=  31.6% pf=1.25
+    1.25x: final_equity=$     121,775 retorno=  21.8% pf=1.22
+    1.50x: final_equity=$     110,642 retorno=  10.6% pf=1.17
+    1.75x: final_equity=$     101,719 retorno=   1.7% pf=1.14
+    2.00x: final_equity=$      95,830 retorno=  -4.2% pf=1.12
+  cap=0.15
+    1.00x: final_equity=$     120,231 retorno=  20.2% pf=1.26
+    1.25x: final_equity=$     114,592 retorno=  14.6% pf=1.22
+    1.50x: final_equity=$     107,579 retorno=   7.6% pf=1.18
+    1.75x: final_equity=$     101,241 retorno=   1.2% pf=1.13
+    2.00x: final_equity=$      97,045 retorno=  -3.0% pf=1.11
+
+=== ETH/USDT 4h ===
+--- k=2.00 ---
+  cap=sin techo
+    1.00x: final_equity=$     158,670 retorno=  58.7% pf=1.26
+    1.25x: final_equity=$     144,151 retorno=  44.2% pf=1.23
+    1.50x: final_equity=$     129,018 retorno=  29.0% pf=1.20
+    1.75x: final_equity=$     122,998 retorno=  23.0% pf=1.19
+    2.00x: final_equity=$     108,771 retorno=   8.8% pf=1.16
+  cap=0.25
+    1.00x: final_equity=$     151,767 retorno=  51.8% pf=1.26
+    1.25x: final_equity=$     139,568 retorno=  39.6% pf=1.23
+    1.50x: final_equity=$     131,006 retorno=  31.0% pf=1.22
+    1.75x: final_equity=$     114,597 retorno=  14.6% pf=1.17
+    2.00x: final_equity=$     112,406 retorno=  12.4% pf=1.17
+  cap=0.15
+    1.00x: final_equity=$     136,892 retorno=  36.9% pf=1.28
+    1.25x: final_equity=$     130,111 retorno=  30.1% pf=1.25
+    1.50x: final_equity=$     125,072 retorno=  25.1% pf=1.24
+    1.75x: final_equity=$     116,787 retorno=  16.8% pf=1.20
+    2.00x: final_equity=$     110,407 retorno=  10.4% pf=1.18
+--- k=3.00 ---
+  cap=sin techo
+    1.00x: final_equity=$     158,166 retorno=  58.2% pf=1.29
+    1.25x: final_equity=$     146,008 retorno=  46.0% pf=1.26
+    1.50x: final_equity=$     136,455 retorno=  36.5% pf=1.24
+    1.75x: final_equity=$     116,385 retorno=  16.4% pf=1.18
+    2.00x: final_equity=$     119,704 retorno=  19.7% pf=1.21
+  cap=0.25
+    1.00x: final_equity=$     153,283 retorno=  53.3% pf=1.30
+    1.25x: final_equity=$     143,438 retorno=  43.4% pf=1.28
+    1.50x: final_equity=$     134,837 retorno=  34.8% pf=1.26
+    1.75x: final_equity=$     124,154 retorno=  24.2% pf=1.22
+    2.00x: final_equity=$     119,703 retorno=  19.7% pf=1.22
+  cap=0.15
+    1.00x: final_equity=$     137,970 retorno=  38.0% pf=1.33
+    1.25x: final_equity=$     131,983 retorno=  32.0% pf=1.31
+    1.50x: final_equity=$     126,286 retorno=  26.3% pf=1.28
+    1.75x: final_equity=$     118,937 retorno=  18.9% pf=1.24
+    2.00x: final_equity=$     114,470 retorno=  14.5% pf=1.23

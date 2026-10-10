@@ -1,0 +1,92 @@
+=== BTC/USDT 4h: 18854 candles, 11 ventanas (train=1200, test=1500) ===
+  BTC/USDT 4h k=2.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  25 pnl=    -5,706 pf=  0.49
+  BTC/USDT 4h k=2.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  51 pnl=    15,752 pf=  1.63
+  BTC/USDT 4h k=2.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  48 pnl=     8,238 pf=  1.38
+  BTC/USDT 4h k=2.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  82 pnl=    11,062 pf=  1.32
+  BTC/USDT 4h k=2.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  47 pnl=     2,391 pf=  1.13
+  BTC/USDT 4h k=2.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  25 pnl=    -4,278 pf=  0.60
+  BTC/USDT 4h k=2.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  54 pnl=     6,041 pf=  1.31
+  BTC/USDT 4h k=2.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  59 pnl=    12,174 pf=  1.46
+  BTC/USDT 4h k=2.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  47 pnl=     6,914 pf=  1.34
+  BTC/USDT 4h k=2.00 win=10 [2024-09-18 -> 2025-05-26] trades=  56 pnl=     8,334 pf=  1.43
+  BTC/USDT 4h k=2.00 win=11 [2025-05-26 -> 2026-01-31] trades=  45 pnl=    -6,666 pf=  0.67
+BTC/USDT 4h k=2.00 TOTAL: pnl=    54,255 ventanas_positivas=8/11 trades=539
+  BTC/USDT 4h k=3.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  14 pnl=       -73 pf=  0.98
+  BTC/USDT 4h k=3.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  43 pnl=    22,190 pf=  2.12
+  BTC/USDT 4h k=3.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  37 pnl=    10,666 pf=  1.68
+  BTC/USDT 4h k=3.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  74 pnl=    13,464 pf=  1.45
+  BTC/USDT 4h k=3.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  40 pnl=       554 pf=  1.04
+  BTC/USDT 4h k=3.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  16 pnl=    -2,386 pf=  0.58
+  BTC/USDT 4h k=3.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  46 pnl=     7,625 pf=  1.44
+  BTC/USDT 4h k=3.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  49 pnl=    15,389 pf=  1.74
+  BTC/USDT 4h k=3.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  38 pnl=     5,768 pf=  1.39
+  BTC/USDT 4h k=3.00 win=10 [2024-09-18 -> 2025-05-26] trades=  55 pnl=     2,649 pf=  1.12
+  BTC/USDT 4h k=3.00 win=11 [2025-05-26 -> 2026-01-31] trades=  40 pnl=    -6,558 pf=  0.66
+BTC/USDT 4h k=3.00 TOTAL: pnl=    69,289 ventanas_positivas=8/11 trades=452
+=== BTC/USDT 1d: 3145 candles, 9 ventanas (train=400, test=300) ===
+  BTC/USDT 1d k=2.00 win= 1 [2019-02-05 -> 2019-12-01] trades=  14 pnl=     5,888 pf=  2.13
+  BTC/USDT 1d k=2.00 win= 2 [2019-12-02 -> 2020-09-26] trades=  15 pnl=      -350 pf=  0.93
+  BTC/USDT 1d k=2.00 win= 3 [2020-09-27 -> 2021-07-23] trades=  16 pnl=    10,210 pf=  3.57
+  BTC/USDT 1d k=2.00 win= 4 [2021-07-24 -> 2022-05-19] trades=   7 pnl=       291 pf=  1.09
+  BTC/USDT 1d k=2.00 win= 5 [2022-05-20 -> 2023-03-15] trades=   6 pnl=    -3,152 pf=  0.00
+  BTC/USDT 1d k=2.00 win= 6 [2023-03-16 -> 2024-01-09] trades=  15 pnl=     2,286 pf=  1.56
+  BTC/USDT 1d k=2.00 win= 7 [2024-01-10 -> 2024-11-04] trades=  16 pnl=       489 pf=  1.06
+  BTC/USDT 1d k=2.00 win= 8 [2024-11-05 -> 2025-08-31] trades=  19 pnl=    -1,330 pf=  0.83
+  BTC/USDT 1d k=2.00 win= 9 [2025-09-01 -> 2026-06-27] trades=   2 pnl=       925 pf=  1.95
+BTC/USDT 1d k=2.00 TOTAL: pnl=    15,255 ventanas_positivas=6/9 trades=110
+  BTC/USDT 1d k=3.00 win= 1 [2019-02-05 -> 2019-12-01] trades=  14 pnl=     4,047 pf=  1.58
+  BTC/USDT 1d k=3.00 win= 2 [2019-12-02 -> 2020-09-26] trades=  13 pnl=    -3,418 pf=  0.49
+  BTC/USDT 1d k=3.00 win= 3 [2020-09-27 -> 2021-07-23] trades=  16 pnl=    14,888 pf=  6.00
+  BTC/USDT 1d k=3.00 win= 4 [2021-07-24 -> 2022-05-19] trades=   5 pnl=       883 pf=  1.53
+  BTC/USDT 1d k=3.00 win= 5 [2022-05-20 -> 2023-03-15] trades=   3 pnl=    -1,818 pf=  0.00
+  BTC/USDT 1d k=3.00 win= 6 [2023-03-16 -> 2024-01-09] trades=  13 pnl=     2,480 pf=  1.81
+  BTC/USDT 1d k=3.00 win= 7 [2024-01-10 -> 2024-11-04] trades=  12 pnl=     1,895 pf=  1.38
+  BTC/USDT 1d k=3.00 win= 8 [2024-11-05 -> 2025-08-31] trades=  18 pnl=    -1,035 pf=  0.85
+  BTC/USDT 1d k=3.00 win= 9 [2025-09-01 -> 2026-06-27] trades=   4 pnl=      -937 pf=  0.60
+BTC/USDT 1d k=3.00 TOTAL: pnl=    16,983 ventanas_positivas=5/9 trades=98
+=== ETH/USDT 4h: 18854 candles, 11 ventanas (train=1200, test=1500) ===
+  ETH/USDT 4h k=2.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  21 pnl=    -1,241 pf=  0.88
+  ETH/USDT 4h k=2.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  50 pnl=     1,324 pf=  1.06
+  ETH/USDT 4h k=2.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  57 pnl=    23,074 pf=  2.35
+  ETH/USDT 4h k=2.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  73 pnl=    24,639 pf=  1.85
+  ETH/USDT 4h k=2.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  51 pnl=    10,145 pf=  1.50
+  ETH/USDT 4h k=2.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  27 pnl=     4,918 pf=  1.56
+  ETH/USDT 4h k=2.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  54 pnl=     8,241 pf=  1.43
+  ETH/USDT 4h k=2.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  56 pnl=    -5,736 pf=  0.77
+  ETH/USDT 4h k=2.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  34 pnl=       821 pf=  1.06
+  ETH/USDT 4h k=2.00 win=10 [2024-09-18 -> 2025-05-26] trades=  43 pnl=     2,496 pf=  1.15
+  ETH/USDT 4h k=2.00 win=11 [2025-05-26 -> 2026-01-31] trades=  55 pnl=     3,998 pf=  1.17
+ETH/USDT 4h k=2.00 TOTAL: pnl=    72,680 ventanas_positivas=9/11 trades=521
+  ETH/USDT 4h k=3.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  13 pnl=     3,003 pf=  1.83
+  ETH/USDT 4h k=3.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  36 pnl=    12,840 pf=  2.17
+  ETH/USDT 4h k=3.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  52 pnl=    20,219 pf=  2.24
+  ETH/USDT 4h k=3.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  63 pnl=    19,802 pf=  1.88
+  ETH/USDT 4h k=3.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  47 pnl=     6,535 pf=  1.34
+  ETH/USDT 4h k=3.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  24 pnl=      -314 pf=  0.97
+  ETH/USDT 4h k=3.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  46 pnl=     5,138 pf=  1.32
+  ETH/USDT 4h k=3.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  46 pnl=    -5,711 pf=  0.73
+  ETH/USDT 4h k=3.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  30 pnl=     1,304 pf=  1.10
+  ETH/USDT 4h k=3.00 win=10 [2024-09-18 -> 2025-05-26] trades=  36 pnl=     3,764 pf=  1.28
+  ETH/USDT 4h k=3.00 win=11 [2025-05-26 -> 2026-01-31] trades=  48 pnl=     2,347 pf=  1.11
+ETH/USDT 4h k=3.00 TOTAL: pnl=    68,925 ventanas_positivas=9/11 trades=441
+=== ETH/USDT 1d: 3145 candles, 9 ventanas (train=400, test=300) ===
+  ETH/USDT 1d k=2.00 win= 1 [2019-02-05 -> 2019-12-01] trades=   7 pnl=       760 pf=  1.25
+  ETH/USDT 1d k=2.00 win= 2 [2019-12-02 -> 2020-09-26] trades=  16 pnl=     4,332 pf=  1.70
+  ETH/USDT 1d k=2.00 win= 3 [2020-09-27 -> 2021-07-23] trades=  17 pnl=     9,808 pf=  2.63
+  ETH/USDT 1d k=2.00 win= 4 [2021-07-24 -> 2022-05-19] trades=   9 pnl=     2,785 pf=  1.77
+  ETH/USDT 1d k=2.00 win= 5 [2022-05-20 -> 2023-03-15] trades=   3 pnl=    -2,403 pf=  0.00
+  ETH/USDT 1d k=2.00 win= 6 [2023-03-16 -> 2024-01-09] trades=  15 pnl=      -873 pf=  0.85
+  ETH/USDT 1d k=2.00 win= 7 [2024-01-10 -> 2024-11-04] trades=  13 pnl=      -560 pf=  0.92
+  ETH/USDT 1d k=2.00 win= 8 [2024-11-05 -> 2025-08-31] trades=  10 pnl=     6,652 pf=  3.87
+  ETH/USDT 1d k=2.00 win= 9 [2025-09-01 -> 2026-06-27] trades=   4 pnl=    -1,610 pf=  0.37
+ETH/USDT 1d k=2.00 TOTAL: pnl=    18,891 ventanas_positivas=5/9 trades=94
+  ETH/USDT 1d k=3.00 win= 1 [2019-02-05 -> 2019-12-01] trades=   6 pnl=      -413 pf=  0.83
+  ETH/USDT 1d k=3.00 win= 2 [2019-12-02 -> 2020-09-26] trades=  14 pnl=     4,914 pf=  1.97
+  ETH/USDT 1d k=3.00 win= 3 [2020-09-27 -> 2021-07-23] trades=  18 pnl=    14,730 pf=  4.21
+  ETH/USDT 1d k=3.00 win= 4 [2021-07-24 -> 2022-05-19] trades=   7 pnl=     2,819 pf=  2.13
+  ETH/USDT 1d k=3.00 win= 5 [2022-05-20 -> 2023-03-15] trades=   0 pnl=         0 pf=  0.00
+  ETH/USDT 1d k=3.00 win= 6 [2023-03-16 -> 2024-01-09] trades=  12 pnl=    -2,303 pf=  0.60
+  ETH/USDT 1d k=3.00 win= 7 [2024-01-10 -> 2024-11-04] trades=  10 pnl=      -240 pf=  0.96
+  ETH/USDT 1d k=3.00 win= 8 [2024-11-05 -> 2025-08-31] trades=   9 pnl=     5,016 pf=  3.90
+  ETH/USDT 1d k=3.00 win= 9 [2025-09-01 -> 2026-06-27] trades=   2 pnl=         6 pf=  1.01
+ETH/USDT 1d k=3.00 TOTAL: pnl=    24,529 ventanas_positivas=5/9 trades=78

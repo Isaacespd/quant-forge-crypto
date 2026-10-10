@@ -1,0 +1,42 @@
+
+=== BTC/USDT 4h ===
+  ATR%% promedio (ATR/close) sobre todo el período: 1.869% (mediana 1.609%)
+  --- k=2.00 ---
+    trades=586 avg_notional_per_trade(ida+vuelta)=$85,975 total_friccion_estimada=$75,572
+    gross_profit=$354,929 gross_loss=$299,545 friccion/gross_profit=21.3%
+    Curva de sensibilidad a costos (multiplicador x costos base):
+      1.00x: final_equity=$     130,233 retorno=  30.2% pf=1.18
+      1.25x: final_equity=$     113,358 retorno=  13.4% pf=1.15
+      1.50x: final_equity=$      91,173 retorno=  -8.8% pf=1.08
+      1.75x: final_equity=$      87,455 retorno= -12.5% pf=1.08
+      2.00x: final_equity=$      82,669 retorno= -17.3% pf=1.08
+  --- k=3.00 ---
+    trades=488 avg_notional_per_trade(ida+vuelta)=$101,223 total_friccion_estimada=$74,095
+    gross_profit=$354,413 gross_loss=$277,656 friccion/gross_profit=20.9%
+    Curva de sensibilidad a costos (multiplicador x costos base):
+      1.00x: final_equity=$     152,110 retorno=  52.1% pf=1.28
+      1.25x: final_equity=$     139,132 retorno=  39.1% pf=1.26
+      1.50x: final_equity=$     120,960 retorno=  21.0% pf=1.20
+      1.75x: final_equity=$     105,150 retorno=   5.2% pf=1.16
+      2.00x: final_equity=$      89,239 retorno= -10.8% pf=1.10
+
+=== ETH/USDT 4h ===
+  ATR%% promedio (ATR/close) sobre todo el período: 2.466% (mediana 2.158%)
+  --- k=2.00 ---
+    trades=567 avg_notional_per_trade(ida+vuelta)=$73,020 total_friccion_estimada=$62,104
+    gross_profit=$385,824 gross_loss=$306,503 friccion/gross_profit=16.1%
+    Curva de sensibilidad a costos (multiplicador x costos base):
+      1.00x: final_equity=$     158,670 retorno=  58.7% pf=1.26
+      1.25x: final_equity=$     144,151 retorno=  44.2% pf=1.23
+      1.50x: final_equity=$     129,018 retorno=  29.0% pf=1.20
+      1.75x: final_equity=$     122,998 retorno=  23.0% pf=1.19
+      2.00x: final_equity=$     108,771 retorno=   8.8% pf=1.16
+  --- k=3.00 ---
+    trades=477 avg_notional_per_trade(ida+vuelta)=$77,516 total_friccion_estimada=$55,463
+    gross_profit=$344,936 gross_loss=$268,331 friccion/gross_profit=16.1%
+    Curva de sensibilidad a costos (multiplicador x costos base):
+      1.00x: final_equity=$     158,166 retorno=  58.2% pf=1.29
+      1.25x: final_equity=$     146,008 retorno=  46.0% pf=1.26
+      1.50x: final_equity=$     136,455 retorno=  36.5% pf=1.24
+      1.75x: final_equity=$     116,385 retorno=  16.4% pf=1.18
+      2.00x: final_equity=$     119,704 retorno=  19.7% pf=1.21

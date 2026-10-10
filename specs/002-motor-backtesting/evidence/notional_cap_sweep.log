@@ -1,0 +1,24 @@
+
+=== BTC/USDT 4h ===
+--- k=2.00 ---
+  cap= sin techo trades= 586 (capados=   0) final_equity=$     130,233 retorno=  30.2% pf=  1.18 sharpe=  0.041 friccion/ganancia_bruta= 21.3%
+  cap=      0.35 trades= 586 (capados= 229) final_equity=$     123,756 retorno=  23.8% pf=  1.17 sharpe=  0.041 friccion/ganancia_bruta= 20.4%
+  cap=      0.25 trades= 586 (capados= 394) final_equity=$     120,038 retorno=  20.0% pf=  1.17 sharpe=  0.041 friccion/ganancia_bruta= 19.4%
+  cap=      0.15 trades= 586 (capados= 550) final_equity=$     110,714 retorno=  10.7% pf=  1.15 sharpe=  0.041 friccion/ganancia_bruta= 18.6%
+--- k=3.00 ---
+  cap= sin techo trades= 488 (capados=   0) final_equity=$     152,110 retorno=  52.1% pf=  1.28 sharpe=  0.076 friccion/ganancia_bruta= 20.9%
+  cap=      0.35 trades= 488 (capados= 187) final_equity=$     137,652 retorno=  37.7% pf=  1.25 sharpe=  0.076 friccion/ganancia_bruta= 20.2%
+  cap=      0.25 trades= 488 (capados= 333) final_equity=$     131,615 retorno=  31.6% pf=  1.25 sharpe=  0.076 friccion/ganancia_bruta= 19.3%
+  cap=      0.15 trades= 488 (capados= 465) final_equity=$     120,231 retorno=  20.2% pf=  1.26 sharpe=  0.076 friccion/ganancia_bruta= 18.4%
+
+=== ETH/USDT 4h ===
+--- k=2.00 ---
+  cap= sin techo trades= 567 (capados=   0) final_equity=$     158,670 retorno=  58.7% pf=  1.26 sharpe=  0.092 friccion/ganancia_bruta= 16.1%
+  cap=      0.35 trades= 567 (capados=  67) final_equity=$     152,919 retorno=  52.9% pf=  1.25 sharpe=  0.092 friccion/ganancia_bruta= 16.0%
+  cap=      0.25 trades= 567 (capados= 240) final_equity=$     151,767 retorno=  51.8% pf=  1.26 sharpe=  0.092 friccion/ganancia_bruta= 15.4%
+  cap=      0.15 trades= 567 (capados= 491) final_equity=$     136,892 retorno=  36.9% pf=  1.28 sharpe=  0.092 friccion/ganancia_bruta= 14.5%
+--- k=3.00 ---
+  cap= sin techo trades= 477 (capados=   0) final_equity=$     158,166 retorno=  58.2% pf=  1.29 sharpe=  0.113 friccion/ganancia_bruta= 16.1%
+  cap=      0.35 trades= 477 (capados=  61) final_equity=$     155,921 retorno=  55.9% pf=  1.29 sharpe=  0.113 friccion/ganancia_bruta= 15.9%
+  cap=      0.25 trades= 477 (capados= 192) final_equity=$     153,283 retorno=  53.3% pf=  1.30 sharpe=  0.113 friccion/ganancia_bruta= 15.3%
+  cap=      0.15 trades= 477 (capados= 416) final_equity=$     137,970 retorno=  38.0% pf=  1.33 sharpe=  0.113 friccion/ganancia_bruta= 14.6%

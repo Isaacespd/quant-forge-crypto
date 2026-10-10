@@ -1,0 +1,67 @@
+=== BNB/USDT 4h: 18854 candles ===
+ATR%% promedio: 2.430% (mediana 2.048%)
+
+--- Barrido de k (agregado completo) ---
+k=1.50 trades= 658 final_equity=     114,570 max_dd= -29.1% profit_factor=  1.12 sharpe=  0.042
+k=1.75 trades= 630 final_equity=     103,264 max_dd= -29.7% profit_factor=  1.08 sharpe=  0.035
+k=2.00 trades= 606 final_equity=     103,990 max_dd= -31.8% profit_factor=  1.08 sharpe=  0.035
+k=2.25 trades= 583 final_equity=     110,774 max_dd= -25.4% profit_factor=  1.11 sharpe=  0.039
+k=2.50 trades= 563 final_equity=     112,549 max_dd= -25.5% profit_factor=  1.12 sharpe=  0.045
+k=2.75 trades= 530 final_equity=     117,555 max_dd= -21.6% profit_factor=  1.14 sharpe=  0.049
+k=3.00 trades= 507 final_equity=     100,275 max_dd= -23.7% profit_factor=  1.06 sharpe=  0.032
+
+--- Walk-forward (ventanas no solapadas) ---
+11 ventanas de test
+  k=2.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  37 pnl=     7,049 pf=  1.49
+  k=2.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  46 pnl=    -4,697 pf=  0.80
+  k=2.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  52 pnl=     3,398 pf=  1.18
+  k=2.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  88 pnl=    20,174 pf=  1.68
+  k=2.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  44 pnl=     3,595 pf=  1.20
+  k=2.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  24 pnl=        47 pf=  1.01
+  k=2.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  45 pnl=      -307 pf=  0.98
+  k=2.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  32 pnl=     2,917 pf=  1.24
+  k=2.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  68 pnl=      -469 pf=  0.99
+  k=2.00 win=10 [2024-09-18 -> 2025-05-26] trades=  42 pnl=   -12,711 pf=  0.29
+  k=2.00 win=11 [2025-05-26 -> 2026-01-31] trades=  67 pnl=     9,052 pf=  1.37
+k=2.00 TOTAL: pnl=    28,048 ventanas_positivas=7/11 trades=545
+  k=3.00 win= 1 [2018-07-21 -> 2019-03-28] trades=  31 pnl=    10,515 pf=  1.86
+  k=3.00 win= 2 [2019-03-29 -> 2019-12-04] trades=  40 pnl=    -6,092 pf=  0.72
+  k=3.00 win= 3 [2019-12-04 -> 2020-08-10] trades=  45 pnl=     2,144 pf=  1.12
+  k=3.00 win= 4 [2020-08-10 -> 2021-04-17] trades=  76 pnl=    13,118 pf=  1.49
+  k=3.00 win= 5 [2021-04-17 -> 2021-12-23] trades=  41 pnl=       -93 pf=  0.99
+  k=3.00 win= 6 [2021-12-23 -> 2022-08-30] trades=  20 pnl=       187 pf=  1.04
+  k=3.00 win= 7 [2022-08-30 -> 2023-05-07] trades=  38 pnl=     1,238 pf=  1.09
+  k=3.00 win= 8 [2023-05-07 -> 2024-01-12] trades=  30 pnl=      -714 pf=  0.95
+  k=3.00 win= 9 [2024-01-12 -> 2024-09-18] trades=  52 pnl=     2,835 pf=  1.13
+  k=3.00 win=10 [2024-09-18 -> 2025-05-26] trades=  40 pnl=   -12,657 pf=  0.33
+  k=3.00 win=11 [2025-05-26 -> 2026-01-31] trades=  62 pnl=     5,412 pf=  1.22
+k=3.00 TOTAL: pnl=    15,893 ventanas_positivas=7/11 trades=475
+
+--- Sesgo direccional ---
+k=2.00 solo_largo: equity=     103,990 pf=1.08 | largo+corto: equity=      92,787 pf=1.05 pnl_SELL=    -2,293 (n=491)
+k=3.00 solo_largo: equity=     100,275 pf=1.06 | largo+corto: equity=      77,874 pf=1.00 pnl_SELL=     5,473 (n=387)
+
+--- Sensibilidad a costos ---
+  k=2.00
+    1.00x: final_equity=$     103,990 retorno=   4.0% pf=1.08
+    1.25x: final_equity=$     100,690 retorno=   0.7% pf=1.08
+    1.50x: final_equity=$      87,419 retorno= -12.6% pf=1.04
+    1.75x: final_equity=$      77,703 retorno= -22.3% pf=1.01
+    2.00x: final_equity=$      65,905 retorno= -34.1% pf=0.97
+  k=3.00
+    1.00x: final_equity=$     100,275 retorno=   0.3% pf=1.06
+    1.25x: final_equity=$      89,960 retorno= -10.0% pf=1.03
+    1.50x: final_equity=$      82,487 retorno= -17.5% pf=1.01
+    1.75x: final_equity=$      69,373 retorno= -30.6% pf=0.95
+    2.00x: final_equity=$      63,720 retorno= -36.3% pf=0.93
+
+--- Por año ---
+  2018: trades= 33 win_rate=30.3% pnl=    -6,241
+  2019: trades= 78 win_rate=35.9% pnl=     9,876
+  2020: trades=100 win_rate=39.0% pnl=      -181
+  2021: trades= 86 win_rate=43.0% pnl=    27,928
+  2022: trades= 37 win_rate=40.5% pnl=       733
+  2023: trades= 58 win_rate=39.7% pnl=     4,108
+  2024: trades=104 win_rate=26.9% pnl=   -16,157
+  2025: trades= 78 win_rate=38.5% pnl=     7,032
+  2026: trades= 32 win_rate=31.2% pnl=    -5,415

@@ -1,0 +1,48 @@
+=== SOL/USDT 4h: 13151 candles ===
+ATR%% promedio: 3.486% (mediana 2.979%)
+
+--- Barrido de k (agregado completo) ---
+k=1.50 trades= 441 final_equity=     135,596 max_dd= -12.4% profit_factor=  1.22 sharpe=  0.091
+k=1.75 trades= 427 final_equity=     130,858 max_dd= -14.2% profit_factor=  1.21 sharpe=  0.087
+k=2.00 trades= 411 final_equity=     128,536 max_dd= -15.7% profit_factor=  1.20 sharpe=  0.082
+k=2.25 trades= 385 final_equity=     132,860 max_dd= -13.9% profit_factor=  1.23 sharpe=  0.098
+k=2.50 trades= 372 final_equity=     132,116 max_dd= -14.9% profit_factor=  1.24 sharpe=  0.099
+k=2.75 trades= 362 final_equity=     127,259 max_dd= -19.3% profit_factor=  1.21 sharpe=  0.091
+k=3.00 trades= 345 final_equity=     122,019 max_dd= -20.3% profit_factor=  1.18 sharpe=  0.092
+
+--- Walk-forward (ventanas no solapadas) ---
+7 ventanas de test
+  k=2.00 win= 1 [2021-02-27 -> 2021-11-04] trades=  82 pnl=    20,845 pf=  1.66
+  k=2.00 win= 2 [2021-11-04 -> 2022-07-12] trades=  19 pnl=    -1,812 pf=  0.76
+  k=2.00 win= 3 [2022-07-12 -> 2023-03-19] trades=  39 pnl=    -2,020 pf=  0.87
+  k=2.00 win= 4 [2023-03-19 -> 2023-11-24] trades=  52 pnl=    13,183 pf=  1.77
+  k=2.00 win= 5 [2023-11-24 -> 2024-07-31] trades=  64 pnl=     9,699 pf=  1.42
+  k=2.00 win= 6 [2024-07-31 -> 2025-04-07] trades=  39 pnl=      -309 pf=  0.98
+  k=2.00 win= 7 [2025-04-07 -> 2025-12-13] trades=  53 pnl=       265 pf=  1.01
+k=2.00 TOTAL: pnl=    39,851 ventanas_positivas=4/7 trades=348
+  k=3.00 win= 1 [2021-02-27 -> 2021-11-04] trades=  73 pnl=    17,313 pf=  1.66
+  k=3.00 win= 2 [2021-11-04 -> 2022-07-12] trades=  13 pnl=       362 pf=  1.08
+  k=3.00 win= 3 [2022-07-12 -> 2023-03-19] trades=  31 pnl=    -3,320 pf=  0.76
+  k=3.00 win= 4 [2023-03-19 -> 2023-11-24] trades=  45 pnl=    11,066 pf=  1.73
+  k=3.00 win= 5 [2023-11-24 -> 2024-07-31] trades=  53 pnl=     7,644 pf=  1.37
+  k=3.00 win= 6 [2024-07-31 -> 2025-04-07] trades=  32 pnl=    -1,884 pf=  0.85
+  k=3.00 win= 7 [2025-04-07 -> 2025-12-13] trades=  48 pnl=    -4,626 pf=  0.77
+k=3.00 TOTAL: pnl=    26,555 ventanas_positivas=4/7 trades=295
+
+--- Sesgo direccional ---
+k=2.00 solo_largo: equity=     128,536 pf=1.20 | largo+corto: equity=     124,777 pf=1.11 pnl_SELL=     3,750 (n=365)
+k=3.00 solo_largo: equity=     122,019 pf=1.18 | largo+corto: equity=     117,201 pf=1.10 pnl_SELL=      -603 (n=294)
+
+--- Sensibilidad a costos ---
+  k=2.00
+    1.00x: final_equity=$     128,536 retorno=  28.5% pf=1.20
+    1.25x: final_equity=$     123,187 retorno=  23.2% pf=1.19
+    1.50x: final_equity=$     117,240 retorno=  17.2% pf=1.17
+    1.75x: final_equity=$     110,786 retorno=  10.8% pf=1.14
+    2.00x: final_equity=$     106,608 retorno=   6.6% pf=1.13
+  k=3.00
+    1.00x: final_equity=$     122,019 retorno=  22.0% pf=1.18
+    1.25x: final_equity=$     119,997 retorno=  20.0% pf=1.19
+    1.50x: final_equity=$     114,750 retorno=  14.7% pf=1.16
+    1.75x: final_equity=$     110,873 retorno=  10.9% pf=1.15
+    2.00x: final_equity=$     105,589 retorno=   5.6% pf=1.12

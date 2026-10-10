@@ -1,0 +1,48 @@
+=== BTC/USDT 1h: 75326 candles ===
+BTC/USDT 1h k=1.50 trades=2008 final_equity=      10,317 max_dd= -91.1% profit_factor=  0.98 sharpe= -0.032 expectancy=    -5.86
+BTC/USDT 1h k=1.75 trades=1939 final_equity=      11,790 max_dd= -89.7% profit_factor=  0.98 sharpe= -0.033 expectancy=    -4.47
+BTC/USDT 1h k=2.00 trades=1884 final_equity=      14,190 max_dd= -87.3% profit_factor=  0.98 sharpe= -0.028 expectancy=    -4.80
+BTC/USDT 1h k=2.25 trades=1811 final_equity=      14,621 max_dd= -87.6% profit_factor=  0.98 sharpe= -0.033 expectancy=    -5.27
+BTC/USDT 1h k=2.50 trades=1608 final_equity=      15,368 max_dd= -87.1% profit_factor=  0.97 sharpe= -0.030 expectancy=   -10.24
+BTC/USDT 1h k=2.75 trades=1669 final_equity=      20,909 max_dd= -82.9% profit_factor=  1.01 sharpe= -0.014 expectancy=     4.67
+BTC/USDT 1h k=3.00 trades=1591 final_equity=      19,802 max_dd= -83.8% profit_factor=  1.00 sharpe= -0.019 expectancy=     0.80
+=== BTC/USDT 4h: 18854 candles ===
+BTC/USDT 4h k=1.50 trades= 608 final_equity=     150,941 max_dd= -13.7% profit_factor=  1.24 sharpe=  0.067 expectancy=   130.94
+BTC/USDT 4h k=1.75 trades= 592 final_equity=     152,128 max_dd= -15.2% profit_factor=  1.25 sharpe=  0.066 expectancy=   136.31
+BTC/USDT 4h k=2.00 trades= 586 final_equity=     130,233 max_dd= -16.9% profit_factor=  1.18 sharpe=  0.041 expectancy=    94.51
+BTC/USDT 4h k=2.25 trades= 560 final_equity=     134,099 max_dd= -20.2% profit_factor=  1.20 sharpe=  0.042 expectancy=   105.48
+BTC/USDT 4h k=2.50 trades= 535 final_equity=     144,953 max_dd= -18.3% profit_factor=  1.24 sharpe=  0.051 expectancy=   130.88
+BTC/USDT 4h k=2.75 trades= 510 final_equity=     151,578 max_dd= -19.5% profit_factor=  1.27 sharpe=  0.070 expectancy=   150.58
+BTC/USDT 4h k=3.00 trades= 488 final_equity=     152,110 max_dd= -20.5% profit_factor=  1.28 sharpe=  0.076 expectancy=   157.29
+=== BTC/USDT 1d: 3145 candles ===
+BTC/USDT 1d k=1.50 trades= 123 final_equity=     121,680 max_dd=  -7.2% profit_factor=  1.47 sharpe=  0.139 expectancy=   190.65
+BTC/USDT 1d k=1.75 trades= 116 final_equity=     123,673 max_dd=  -8.1% profit_factor=  1.55 sharpe=  0.156 expectancy=   218.40
+BTC/USDT 1d k=2.00 trades= 115 final_equity=     122,887 max_dd=  -8.0% profit_factor=  1.54 sharpe=  0.154 expectancy=   213.29
+BTC/USDT 1d k=2.25 trades= 109 final_equity=     123,244 max_dd=  -6.4% profit_factor=  1.58 sharpe=  0.161 expectancy=   227.71
+BTC/USDT 1d k=2.50 trades= 108 final_equity=     121,547 max_dd=  -7.3% profit_factor=  1.53 sharpe=  0.147 expectancy=   214.01
+BTC/USDT 1d k=2.75 trades= 103 final_equity=     119,723 max_dd=  -8.9% profit_factor=  1.49 sharpe=  0.136 expectancy=   205.95
+BTC/USDT 1d k=3.00 trades= 100 final_equity=     121,244 max_dd=  -8.8% profit_factor=  1.55 sharpe=  0.142 expectancy=   227.10
+=== ETH/USDT 1h: 75326 candles ===
+ETH/USDT 1h k=1.50 trades=2216 final_equity=      13,062 max_dd= -87.9% profit_factor=  0.95 sharpe= -0.022 expectancy=   -12.59
+ETH/USDT 1h k=1.75 trades=2120 final_equity=      17,399 max_dd= -83.6% profit_factor=  0.95 sharpe= -0.015 expectancy=   -11.79
+ETH/USDT 1h k=2.00 trades=2025 final_equity=      20,711 max_dd= -81.4% profit_factor=  0.98 sharpe= -0.009 expectancy=    -6.88
+ETH/USDT 1h k=2.25 trades=1945 final_equity=      24,609 max_dd= -78.8% profit_factor=  0.98 sharpe= -0.011 expectancy=    -5.05
+ETH/USDT 1h k=2.50 trades=1816 final_equity=      24,140 max_dd= -80.2% profit_factor=  0.98 sharpe= -0.013 expectancy=    -7.36
+ETH/USDT 1h k=2.75 trades=1794 final_equity=      30,364 max_dd= -76.9% profit_factor=  1.00 sharpe= -0.005 expectancy=     0.87
+ETH/USDT 1h k=3.00 trades=1651 final_equity=      28,811 max_dd= -78.3% profit_factor=  0.99 sharpe= -0.012 expectancy=    -3.38
+=== ETH/USDT 4h: 18854 candles ===
+ETH/USDT 4h k=1.50 trades= 607 final_equity=     154,083 max_dd= -19.2% profit_factor=  1.22 sharpe=  0.088 expectancy=   127.06
+ETH/USDT 4h k=1.75 trades= 589 final_equity=     154,501 max_dd= -18.9% profit_factor=  1.23 sharpe=  0.093 expectancy=   130.31
+ETH/USDT 4h k=2.00 trades= 567 final_equity=     158,670 max_dd= -17.6% profit_factor=  1.26 sharpe=  0.092 expectancy=   139.90
+ETH/USDT 4h k=2.25 trades= 546 final_equity=     155,634 max_dd= -20.4% profit_factor=  1.25 sharpe=  0.097 expectancy=   139.05
+ETH/USDT 4h k=2.50 trades= 521 final_equity=     166,621 max_dd= -18.8% profit_factor=  1.29 sharpe=  0.110 expectancy=   167.30
+ETH/USDT 4h k=2.75 trades= 504 final_equity=     161,255 max_dd= -16.2% profit_factor=  1.28 sharpe=  0.110 expectancy=   160.32
+ETH/USDT 4h k=3.00 trades= 477 final_equity=     158,166 max_dd= -15.4% profit_factor=  1.29 sharpe=  0.113 expectancy=   160.60
+=== ETH/USDT 1d: 3145 candles ===
+ETH/USDT 1d k=1.50 trades= 102 final_equity=     123,664 max_dd= -10.8% profit_factor=  1.53 sharpe=  0.157 expectancy=   242.62
+ETH/USDT 1d k=1.75 trades=  95 final_equity=     126,985 max_dd=  -6.8% profit_factor=  1.66 sharpe=  0.177 expectancy=   294.58
+ETH/USDT 1d k=2.00 trades=  95 final_equity=     124,654 max_dd=  -8.4% profit_factor=  1.60 sharpe=  0.162 expectancy=   269.95
+ETH/USDT 1d k=2.25 trades=  92 final_equity=     124,892 max_dd=  -9.0% profit_factor=  1.61 sharpe=  0.186 expectancy=   281.19
+ETH/USDT 1d k=2.50 trades=  85 final_equity=     126,199 max_dd=  -6.8% profit_factor=  1.74 sharpe=  0.222 expectancy=   319.21
+ETH/USDT 1d k=2.75 trades=  83 final_equity=     124,088 max_dd=  -7.0% profit_factor=  1.73 sharpe=  0.208 expectancy=   300.83
+ETH/USDT 1d k=3.00 trades=  77 final_equity=     128,610 max_dd=  -5.9% profit_factor=  1.96 sharpe=  0.242 expectancy=   382.40
