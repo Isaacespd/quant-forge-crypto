@@ -2,7 +2,7 @@
 
 Fase actual: **backtesting-first**. Ver [`docs/SDD.md`](docs/SDD.md) para la visión y arquitectura completas, y [`specs/README.md`](specs/README.md) para el flujo de Spec-Driven Development y el estado de cada componente.
 
-## 🚀 Características Implementadas
+##  Características Implementadas
 
 Actualmente, el motor cuenta con una sólida base para la simulación y descarga de datos:
 
